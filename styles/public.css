@@ -24,6 +24,7 @@ nav{
     display: flex;
     justify-content: space-between;
     align-items: center;
+    margin: 0 150px;
 
     
 }
@@ -48,4 +49,21 @@ nav li{
 nav a{
     text-decoration: none;
     text-decoration-color: blanchedalmond;
+}
+
+
+/* herder related style */
+.heder{
+    background-color: #fff8f3;
+}
+
+.banner{
+    padding: 30px 30px 30px 150px;
+    display: flex;
+    align-items: center;
+}
+ 
+.banner .profile-pic{
+    width: 500px;
+    align-items: center;
 }
